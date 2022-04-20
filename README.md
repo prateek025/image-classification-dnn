@@ -1,1 +1,1 @@
-# image-classification-dnn
+# Image Classfication using Dense Neural Network
