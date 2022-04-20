@@ -1,1 +1,1 @@
-# Image Classfication using Dense Neural Network
+# Image Classfication using Neural Networks
